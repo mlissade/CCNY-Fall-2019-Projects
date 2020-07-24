@@ -1,6 +1,6 @@
 # City College of New York - Fall 2019 Projects
 
-## DSE I1020 - Introduction to Data Science
+## [DSE I1020 - Introduction to Data Science](/DSE_I1020/)
 
 ### Course Description
 
@@ -11,7 +11,7 @@ This course presented a survey to Data Science and introduced some of the core d
 - [Exploratory Data Analysis and Visualization](/DSE_I1020/EDA-and-Viz.ipynb)
 - Mini Projects - [Part 1](/DSE_I1020/Mini-Project-1.ipynb) and [Part 2](/DSE_I1020/Mini-Project-2.ipynb)
 
-## DSE I1030 - Applied Statistics
+## [DSE I1030 - Applied Statistics](/DSE_I1030/)
 
 ### Course Description
 
@@ -21,7 +21,7 @@ This course will examine real data sets from a variety of domains, examine multi
 
 - [Error Analysis of in situ Sea Surface Temperature Data](/DSE_I1030/Project2.ipynb)
 
-## DSE I2700 - Visual Analytics
+## [DSE I2700 - Visual Analytics](/DSE_I2700/)
 
 ### Course Description
 
@@ -29,4 +29,4 @@ The course will explore how principles of information graphics and design and ho
 
 ### Project
 
-- [Data Analysis of Pedometer Steps](/DSE_I2700)
+- [Data Analysis of Pedometer Steps](/DSE_I2700/)
