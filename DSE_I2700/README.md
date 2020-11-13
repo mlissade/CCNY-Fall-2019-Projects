@@ -12,6 +12,7 @@ This project inclues:
 
 - [Python Jupyter Notebook](Visual-Analytics-Final-Project.ipynb): the code for the entire project
 - [Final Report](Final-Report.pdf): explains the purpose and findings of the project
+- [Demo Video](https://youtu.be/Y0egr7sXqFE): demo of project interactions
 - [Presentation](Presentation.pdf): used in class to present the project to the professor and peers
 - [Collected data](project_data.csv): formatted as a csv file
 
