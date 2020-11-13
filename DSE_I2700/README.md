@@ -15,11 +15,12 @@ This project inclues:
 - [Presentation](Presentation.pdf): used in class to present the project to the professor and peers
 - [Collected data](project_data.csv): formatted as a csv file
 
-![Demo](project.png)
-
 To run the interactive visualization, must use Python via Jupyter Notebook and the following libraries must also be installed for the notebook:
 
 - pandas
 - numpy
 - datetime
 - bokeh
+
+
+![project.png](https://youtu.be/Y0egr7sXqFE)
