@@ -23,4 +23,4 @@ To run the interactive visualization, must use Python via Jupyter Notebook and t
 - datetime
 - bokeh
 
-![](Demo.mp4)
+![Video of Demo](Demo.mp4)
