@@ -21,6 +21,3 @@ To run the interactive visualization, must use Python via Jupyter Notebook and t
 - numpy
 - datetime
 - bokeh
-
-
-![https://github.com/mlissade/CCNY-Fall-2019-Projects/blob/master/DSE_I2700/project.png](https://youtu.be/Y0egr7sXqFE)
