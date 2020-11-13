@@ -22,5 +22,3 @@ To run the interactive visualization, must use Python via Jupyter Notebook and t
 - numpy
 - datetime
 - bokeh
-
-![Video of Demo](Demo.mp4)
